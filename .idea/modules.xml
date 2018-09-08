@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aqiyi/aqiyi.iml" filepath="$PROJECT_DIR$/aqiyi/aqiyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam.iml" filepath="$PROJECT_DIR$/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hungryYi/hungryYi.iml" filepath="$PROJECT_DIR$/hungryYi/hungryYi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyNumber/luckyNumber.iml" filepath="$PROJECT_DIR$/luckyNumber/luckyNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/national/national.iml" filepath="$PROJECT_DIR$/national/national.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/niuke_test.iml" filepath="$PROJECT_DIR$/.idea/modules/niuke_test.iml" group="niuke" />
+      <module fileurl="file://$PROJECT_DIR$/pinduoduo/pinduoduo.iml" filepath="$PROJECT_DIR$/pinduoduo/pinduoduo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyi/wangyi.iml" filepath="$PROJECT_DIR$/wangyi/wangyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhaohangkazhongxin/zhaohangkazhongxin.iml" filepath="$PROJECT_DIR$/zhaohangkazhongxin/zhaohangkazhongxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zijietiaodong/zijietiaodong.iml" filepath="$PROJECT_DIR$/zijietiaodong/zijietiaodong.iml" />
+    </modules>
+  </component>
+</project>
