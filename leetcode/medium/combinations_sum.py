@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         dict = {}
-        for i in range(target):
+        for i in range(1, target + 1):
             dict[i] = []
         for i in range(1, target + 1):
             for j in candidates:
